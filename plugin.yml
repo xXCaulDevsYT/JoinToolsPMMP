@@ -1,0 +1,8 @@
+---
+name: JoinToolsPMMP
+version: 1.0.0
+api: 3.0.0
+main: JoinToolsPMMP\Main
+author: xXCaulDevsYT
+description: A simple player join system for your server.
+---

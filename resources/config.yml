@@ -1,0 +1,26 @@
+# -----------------------------
+# JoinToolsPMMP by xXCaulDevsYT
+# -----------------------------
+
+# Formatting Help:
+# $name - Shows players name.
+# \n - Next Line.
+# § - Color Symbol.
+
+# Welcome Message Settings:
+welcome-message: "Hello $name Welcome to the server!"
+
+# Join Title Settings:
+join-title: "Welcome $name"
+
+# Player Join Message Settings:
+join-message: "$name has joined the game!"
+
+# Player Join Popup Settings:
+join-popup: "$name has joined the server!"
+
+# Player Leave Message Settings:
+leave-message: "$name left the game!"
+
+# Player Leave Popup Settings:
+leave-popup: "$name left the server!"
